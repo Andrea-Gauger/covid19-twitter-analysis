@@ -1,0 +1,1 @@
+https://public.tableau.com/app/profile/andrea.gauger.donayre/viz/Covid19_twitter_analysis_tableau/Contexto?publish=yes

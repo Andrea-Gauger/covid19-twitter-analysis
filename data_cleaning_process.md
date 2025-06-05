@@ -72,7 +72,7 @@ Primer análisis exploratorio:
   - Extraigo Hashtags (#) y Menciones (@) en nuevas columnas  
 
 - **User Account Creation Date**  
-  - Nueva columna con solo el año → `account_creation_year`  
+  - Nueva columna con solo la fecha → `account_creation_date`  
 
 - **Tweet Posted Time (UTC)**  
   - Nueva columna con solo la fecha  
@@ -179,7 +179,7 @@ Initial exploratory analysis:
   - New columns for Hashtags (#) and Mentions (@)  
 
 - **User Account Creation Date**  
-  - Extracted `account_creation_year`  
+  - Extracted `account_creation_date`  
 
 - **Tweet Posted Time (UTC)**  
   - New columns for date and time  
@@ -285,7 +285,7 @@ Prima analisi esplorativa:
   - Nuove colonne per Hashtag (#) e Menzioni (@)  
 
 - **User Account Creation Date**  
-  - Estratto `account_creation_year`  
+  - Estratto `account_creation_date`  
 
 - **Tweet Posted Time (UTC)**  
   - Nuove colonne per data e ora  
