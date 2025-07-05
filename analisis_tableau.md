@@ -20,7 +20,7 @@ Variables incluidas:
 
 ## 🎯 Objetivos del análisis
 
-- Comprender cómo, cuándo y desde dónde se habló del COVID-19 en Twitter
+- Comprender cómo, cuándo y desde dónde se habló del COVID-19 en Twitter prepandemia
 - Identificar los perfiles de usuarios más activos o influyentes
 - Analizar los temas y hashtags más relevantes
 - Observar el engagement y comportamiento de publicación
